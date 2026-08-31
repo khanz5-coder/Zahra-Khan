@@ -1,0 +1,1935 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global/global}
+    \entry{andrade_new_2025}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a9ce79aee43685f76727be3571574573}{%
+           family={Andrade},
+           familyi={A\bibinitperiod},
+           given={Marcos\bibnamedelima Montoya},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cc7fe1eafcef5a2c8cc3eb830b726816}{%
+           family={Serrano},
+           familyi={S\bibinitperiod},
+           given={Ray},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {League of United Latin American Citizens}%
+      }
+      \strng{namehash}{a0d1832c9a2a7f6b4a65d467b7b377e8}
+      \strng{fullhash}{a0d1832c9a2a7f6b4a65d467b7b377e8}
+      \strng{fullhashraw}{a0d1832c9a2a7f6b4a65d467b7b377e8}
+      \strng{bibnamehash}{a0d1832c9a2a7f6b4a65d467b7b377e8}
+      \strng{authorbibnamehash}{a0d1832c9a2a7f6b4a65d467b7b377e8}
+      \strng{authornamehash}{a0d1832c9a2a7f6b4a65d467b7b377e8}
+      \strng{authorfullhash}{a0d1832c9a2a7f6b4a65d467b7b377e8}
+      \strng{authorfullhashraw}{a0d1832c9a2a7f6b4a65d467b7b377e8}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A {New} {Wave} of {Hate}: {The} {Anti}-{Immigrant} {Legislative} {Boom} {Since} 2020}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://lulac.org/a_new_wave_of_hate/
+      \endverb
+      \verb{url}
+      \verb https://lulac.org/a_new_wave_of_hate/
+      \endverb
+    \endentry
+    \entry{asher_union_2008}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b1f0a013a7a578bf08e1af3214310947}{%
+           family={Asher},
+           familyi={A\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b1f0a013a7a578bf08e1af3214310947}
+      \strng{fullhash}{b1f0a013a7a578bf08e1af3214310947}
+      \strng{fullhashraw}{b1f0a013a7a578bf08e1af3214310947}
+      \strng{bibnamehash}{b1f0a013a7a578bf08e1af3214310947}
+      \strng{authorbibnamehash}{b1f0a013a7a578bf08e1af3214310947}
+      \strng{authornamehash}{b1f0a013a7a578bf08e1af3214310947}
+      \strng{authorfullhash}{b1f0a013a7a578bf08e1af3214310947}
+      \strng{authorfullhashraw}{b1f0a013a7a578bf08e1af3214310947}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{This article explores nativism among labor union works and how immigrant community responded. Further, it explores a lot of important key terms by which we can filter quantitative analysis}
+      \field{journaltitle}{Labor History}
+      \field{month}{7}
+      \field{number}{3}
+      \field{title}{Union nativism and the immigrant response}
+      \field{volume}{23}
+      \field{year}{2008}
+      \field{pages}{325\bibrangedash 348}
+      \range{pages}{24}
+      \keyw{Lit Review,Nativism Def,Concepts,Words,ETC}
+    \endentry
+    \entry{bean_causes_2020}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6e7561469dc7d0db6b59df5aa81c0475}{%
+           family={Bean},
+           familyi={B\bibinitperiod},
+           given={Frank.\bibnamedelimi D},
+           giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1d92715a2522289f0c332c7f929655fc}{%
+           family={Thoa},
+           familyi={T\bibinitperiod},
+           given={V.\bibnamedelimi Khuu},
+           giveni={V\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {UC Irvine}%
+      }
+      \strng{namehash}{a95a9b5d97c23db788bf2794ec96a9d1}
+      \strng{fullhash}{a95a9b5d97c23db788bf2794ec96a9d1}
+      \strng{fullhashraw}{a95a9b5d97c23db788bf2794ec96a9d1}
+      \strng{bibnamehash}{a95a9b5d97c23db788bf2794ec96a9d1}
+      \strng{authorbibnamehash}{a95a9b5d97c23db788bf2794ec96a9d1}
+      \strng{authornamehash}{a95a9b5d97c23db788bf2794ec96a9d1}
+      \strng{authorfullhash}{a95a9b5d97c23db788bf2794ec96a9d1}
+      \strng{authorfullhashraw}{a95a9b5d97c23db788bf2794ec96a9d1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CPIP Working Paper Series}
+      \field{month}{10}
+      \field{title}{The {Causes} and {Consequences} of the 1986 {Immigration} {Reform} and {Control} {Act} ({IRCA})}
+      \field{year}{2020}
+    \endentry
+    \entry{behdad_forgetful_2005}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cfbbc905c2d0ef89b1809e275b636ac9}{%
+           family={Behdad},
+           familyi={B\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Duke University Press}%
+      }
+      \strng{namehash}{cfbbc905c2d0ef89b1809e275b636ac9}
+      \strng{fullhash}{cfbbc905c2d0ef89b1809e275b636ac9}
+      \strng{fullhashraw}{cfbbc905c2d0ef89b1809e275b636ac9}
+      \strng{bibnamehash}{cfbbc905c2d0ef89b1809e275b636ac9}
+      \strng{authorbibnamehash}{cfbbc905c2d0ef89b1809e275b636ac9}
+      \strng{authornamehash}{cfbbc905c2d0ef89b1809e275b636ac9}
+      \strng{authorfullhash}{cfbbc905c2d0ef89b1809e275b636ac9}
+      \strng{authorfullhashraw}{cfbbc905c2d0ef89b1809e275b636ac9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A {Forgetful} {Nation}: {On} {Immigration} and {Cultural} {Identity} in the {United} {States}}
+      \field{year}{2005}
+    \endentry
+    \entry{berman_panic_nodate}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a000626c010fec5d737919e2b131a755}{%
+           family={Berman},
+           familyi={B\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=495a7d79b10d514e5a06e87a3ec4d622}{%
+           family={Brey},
+           familyi={B\bibinitperiod},
+           given={Bjorn},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2fd4c9a3dd8d8ecf56f33ac0ed2508f8}{%
+           family={Laurent-Lucchetti},
+           familyi={L\bibinithyphendelim L\bibinitperiod},
+           given={Jeremy},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b5e3bc43acd88aff8189008de139009e}
+      \strng{fullhash}{b5e3bc43acd88aff8189008de139009e}
+      \strng{fullhashraw}{b5e3bc43acd88aff8189008de139009e}
+      \strng{bibnamehash}{b5e3bc43acd88aff8189008de139009e}
+      \strng{authorbibnamehash}{b5e3bc43acd88aff8189008de139009e}
+      \strng{authornamehash}{b5e3bc43acd88aff8189008de139009e}
+      \strng{authorfullhash}{b5e3bc43acd88aff8189008de139009e}
+      \strng{authorfullhashraw}{b5e3bc43acd88aff8189008de139009e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Panic {Politics} on the {US} {West} {Coast}*}
+    \endentry
+    \entry{briggs_jr_american_2001}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f945b3d7f9ba813d79b83e334e58eb25}{%
+           family={Briggs\bibnamedelima Jr.},
+           familyi={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Vernon\bibnamedelima M.},
+           giveni={V\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Center for Immigration Studies}%
+      }
+      \strng{namehash}{f945b3d7f9ba813d79b83e334e58eb25}
+      \strng{fullhash}{f945b3d7f9ba813d79b83e334e58eb25}
+      \strng{fullhashraw}{f945b3d7f9ba813d79b83e334e58eb25}
+      \strng{bibnamehash}{f945b3d7f9ba813d79b83e334e58eb25}
+      \strng{authorbibnamehash}{f945b3d7f9ba813d79b83e334e58eb25}
+      \strng{authornamehash}{f945b3d7f9ba813d79b83e334e58eb25}
+      \strng{authorfullhash}{f945b3d7f9ba813d79b83e334e58eb25}
+      \strng{authorfullhashraw}{f945b3d7f9ba813d79b83e334e58eb25}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Center for Immigration Studies}
+      \field{month}{8}
+      \field{title}{American {Unionism} and {U}.{S}. {Immigration} {Policy}}
+      \field{year}{2001}
+      \verb{urlraw}
+      \verb https://cis.org/Report/American-Unionism-and-US-Immigration-Policy
+      \endverb
+      \verb{url}
+      \verb https://cis.org/Report/American-Unionism-and-US-Immigration-Policy
+      \endverb
+    \endentry
+    \entry{brinkman_working_2009}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3203f23f70a2f36af4cd46e93e571975}{%
+           family={Brinkman},
+           familyi={B\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Dominican University of California}%
+      }
+      \strng{namehash}{3203f23f70a2f36af4cd46e93e571975}
+      \strng{fullhash}{3203f23f70a2f36af4cd46e93e571975}
+      \strng{fullhashraw}{3203f23f70a2f36af4cd46e93e571975}
+      \strng{bibnamehash}{3203f23f70a2f36af4cd46e93e571975}
+      \strng{authorbibnamehash}{3203f23f70a2f36af4cd46e93e571975}
+      \strng{authornamehash}{3203f23f70a2f36af4cd46e93e571975}
+      \strng{authorfullhash}{3203f23f70a2f36af4cd46e93e571975}
+      \strng{authorfullhashraw}{3203f23f70a2f36af4cd46e93e571975}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Dissertations, Masters Theses, Capstones, and Culminating Projects}
+      \field{title}{From {Working} {Arm} t orking {Arm} to {Wetback}: {The} {Mexican} {W} etback: {The} {Mexican} {Worker} and {American} {National} {Identity}, 1942-1964}
+      \field{volume}{67}
+      \field{year}{2009}
+      \field{pages}{46}
+      \range{pages}{1}
+    \endentry
+    \entry{calderon-zaks_debated_2011}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8b55afb0663ae3d0d7df1a1f4dea554f}{%
+           family={Calderon-Zaks},
+           familyi={C\bibinithyphendelim Z\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{3}{%
+        {University of California Press on behalf of the University of California Institute for Mexico}%
+        {the United States}%
+        {the Universidad Nacional Autónoma de México}%
+      }
+      \strng{namehash}{8b55afb0663ae3d0d7df1a1f4dea554f}
+      \strng{fullhash}{8b55afb0663ae3d0d7df1a1f4dea554f}
+      \strng{fullhashraw}{8b55afb0663ae3d0d7df1a1f4dea554f}
+      \strng{bibnamehash}{8b55afb0663ae3d0d7df1a1f4dea554f}
+      \strng{authorbibnamehash}{8b55afb0663ae3d0d7df1a1f4dea554f}
+      \strng{authornamehash}{8b55afb0663ae3d0d7df1a1f4dea554f}
+      \strng{authorfullhash}{8b55afb0663ae3d0d7df1a1f4dea554f}
+      \strng{authorfullhashraw}{8b55afb0663ae3d0d7df1a1f4dea554f}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mexican Studies/Estudios Mexicanos}
+      \field{number}{2}
+      \field{title}{Debated {Whiteness} amid {World} {Events}: {Mexican} and {Mexican} {American} {Subjectivity} and the {U}.{S}.' {Relationship} with the {Americas}, 1924–1936}
+      \field{volume}{27}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/10.1525/msem.2011.27.2.325
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/10.1525/msem.2011.27.2.325
+      \endverb
+    \endentry
+    \entry{the_southern_poverty_law_center_white_2025}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=88cc46b8603d451b3dac6fa9f1a634a8}{%
+           family={Center},
+           familyi={C\bibinitperiod},
+           given={The\bibnamedelimb Southern\bibnamedelimb Poverty\bibnamedelima Law},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The Southern Poverty Law Center}%
+      }
+      \strng{namehash}{88cc46b8603d451b3dac6fa9f1a634a8}
+      \strng{fullhash}{88cc46b8603d451b3dac6fa9f1a634a8}
+      \strng{fullhashraw}{88cc46b8603d451b3dac6fa9f1a634a8}
+      \strng{bibnamehash}{88cc46b8603d451b3dac6fa9f1a634a8}
+      \strng{authorbibnamehash}{88cc46b8603d451b3dac6fa9f1a634a8}
+      \strng{authornamehash}{88cc46b8603d451b3dac6fa9f1a634a8}
+      \strng{authorfullhash}{88cc46b8603d451b3dac6fa9f1a634a8}
+      \strng{authorfullhashraw}{88cc46b8603d451b3dac6fa9f1a634a8}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{White {Nationalist}}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.splcenter.org/resources/extremist-files/white-nationalist/
+      \endverb
+      \verb{url}
+      \verb https://www.splcenter.org/resources/extremist-files/white-nationalist/
+      \endverb
+    \endentry
+    \entry{chand_life_2025}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c14c56c890a07ccc1ace2dfc770692db}{%
+           family={Chand},
+           familyi={C\bibinitperiod},
+           given={Daniel\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{c14c56c890a07ccc1ace2dfc770692db}
+      \strng{fullhash}{c14c56c890a07ccc1ace2dfc770692db}
+      \strng{fullhashraw}{c14c56c890a07ccc1ace2dfc770692db}
+      \strng{bibnamehash}{c14c56c890a07ccc1ace2dfc770692db}
+      \strng{authorbibnamehash}{c14c56c890a07ccc1ace2dfc770692db}
+      \strng{authornamehash}{c14c56c890a07ccc1ace2dfc770692db}
+      \strng{authorfullhash}{c14c56c890a07ccc1ace2dfc770692db}
+      \strng{authorfullhashraw}{c14c56c890a07ccc1ace2dfc770692db}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Amerasia Journal}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{Life {After} {California}: {The} {Ethnic} {Niches} and {Racial} {Barriers} {Encountered} by a {Pioneering} {Punjabi} {Who} {Left} the {American} {West}}
+      \field{volume}{50}
+      \field{year}{2025}
+      \field{pages}{38}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/00447471.2025.2468143
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/00447471.2025.2468143
+      \endverb
+    \endentry
+    \entry{dancygier_sectoral_2013}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b4652b39b6148521f5237a0aec8c0a01}{%
+           family={Dancygier},
+           familyi={D\bibinitperiod},
+           given={Rafaela},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c349555f0e9aaab9ebda5c0cc76123cb}{%
+           family={Donnelly},
+           familyi={D\bibinitperiod},
+           given={Micheal},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Southern Political Science Association}%
+      }
+      \strng{namehash}{ff57df3fd61e927a6fd12a6c307ba481}
+      \strng{fullhash}{ff57df3fd61e927a6fd12a6c307ba481}
+      \strng{fullhashraw}{ff57df3fd61e927a6fd12a6c307ba481}
+      \strng{bibnamehash}{ff57df3fd61e927a6fd12a6c307ba481}
+      \strng{authorbibnamehash}{ff57df3fd61e927a6fd12a6c307ba481}
+      \strng{authornamehash}{ff57df3fd61e927a6fd12a6c307ba481}
+      \strng{authorfullhash}{ff57df3fd61e927a6fd12a6c307ba481}
+      \strng{authorfullhashraw}{ff57df3fd61e927a6fd12a6c307ba481}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Politics}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Sectoral {Economies}, {Economic} {Contexts}, and {Attitudes} toward {Immigration}}
+      \field{volume}{75}
+      \field{year}{2013}
+      \field{pages}{17\bibrangedash 35}
+      \range{pages}{19}
+    \endentry
+    \entry{daniels_immigration_2006}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ecd319ebaf6a054a627cc6d3de4bb167}{%
+           family={Daniels},
+           familyi={D\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{ecd319ebaf6a054a627cc6d3de4bb167}
+      \strng{fullhash}{ecd319ebaf6a054a627cc6d3de4bb167}
+      \strng{fullhashraw}{ecd319ebaf6a054a627cc6d3de4bb167}
+      \strng{bibnamehash}{ecd319ebaf6a054a627cc6d3de4bb167}
+      \strng{authorbibnamehash}{ecd319ebaf6a054a627cc6d3de4bb167}
+      \strng{authornamehash}{ecd319ebaf6a054a627cc6d3de4bb167}
+      \strng{authorfullhash}{ecd319ebaf6a054a627cc6d3de4bb167}
+      \strng{authorfullhashraw}{ecd319ebaf6a054a627cc6d3de4bb167}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {Cambridge} {Companion} to {Modern} {American} {Culture}}
+      \field{title}{Immigration to the {United} {States} in the {Twentieth} {Century}}
+      \field{year}{2006}
+    \endentry
+    \entry{ely_congressman_1925}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=31097a04bed2044635d9072baba070ff}{%
+           family={ELY},
+           familyi={E\bibinitperiod},
+           given={FREDERICK\bibnamedelima W.},
+           giveni={F\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of California, Riverside}%
+      }
+      \strng{namehash}{31097a04bed2044635d9072baba070ff}
+      \strng{fullhash}{31097a04bed2044635d9072baba070ff}
+      \strng{fullhashraw}{31097a04bed2044635d9072baba070ff}
+      \strng{bibnamehash}{31097a04bed2044635d9072baba070ff}
+      \strng{authorbibnamehash}{31097a04bed2044635d9072baba070ff}
+      \strng{authornamehash}{31097a04bed2044635d9072baba070ff}
+      \strng{authorfullhash}{31097a04bed2044635d9072baba070ff}
+      \strng{authorfullhashraw}{31097a04bed2044635d9072baba070ff}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Organized Labor}
+      \field{month}{7}
+      \field{number}{30}
+      \field{title}{Congressman {Flaherty} {Launches} {Campaign} to {Stop} {Mexican} {Invasion} of {U}. {S}.}
+      \field{volume}{29}
+      \field{year}{1925}
+    \endentry
+    \entry{ersanilli_fixed-term_2023}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=09cfbf47dbcf001c7026e7003aadd6cd}{%
+           family={Ersanilli},
+           familyi={E\bibinitperiod},
+           given={Evelyn},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e032c05bc7ee6d4a808b3ed9347ed937}{%
+           family={Prag},
+           familyi={P\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{c5e44771557dc7771feba480ea18ad9e}
+      \strng{fullhash}{c5e44771557dc7771feba480ea18ad9e}
+      \strng{fullhashraw}{c5e44771557dc7771feba480ea18ad9e}
+      \strng{bibnamehash}{c5e44771557dc7771feba480ea18ad9e}
+      \strng{authorbibnamehash}{c5e44771557dc7771feba480ea18ad9e}
+      \strng{authornamehash}{c5e44771557dc7771feba480ea18ad9e}
+      \strng{authorfullhash}{c5e44771557dc7771feba480ea18ad9e}
+      \strng{authorfullhashraw}{c5e44771557dc7771feba480ea18ad9e}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Socio-Economic Review}
+      \field{number}{1}
+      \field{title}{Fixed-term work contracts and antiimmigration attitudes. {A} novel test of ethnic competition theory}
+      \field{volume}{21}
+      \field{year}{2023}
+      \field{pages}{293\bibrangedash 318}
+      \range{pages}{26}
+    \endentry
+    \entry{floyd_organized_nodate}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=630b0382953efe2550ef5c743ae3aa39}{%
+           family={Floyd},
+           familyi={F\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{630b0382953efe2550ef5c743ae3aa39}
+      \strng{fullhash}{630b0382953efe2550ef5c743ae3aa39}
+      \strng{fullhashraw}{630b0382953efe2550ef5c743ae3aa39}
+      \strng{bibnamehash}{630b0382953efe2550ef5c743ae3aa39}
+      \strng{authorbibnamehash}{630b0382953efe2550ef5c743ae3aa39}
+      \strng{authornamehash}{630b0382953efe2550ef5c743ae3aa39}
+      \strng{authorfullhash}{630b0382953efe2550ef5c743ae3aa39}
+      \strng{authorfullhashraw}{630b0382953efe2550ef5c743ae3aa39}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Claremont Graduate University}
+      \field{title}{{ORGANIZED} {LABOR} {AND} {THEIR} {INTERACTIONS} {WITH} {US} {IMMIGRATION} {POLICY}: {From} 1882 - {Present}}
+    \endentry
+    \entry{frank_where_2003}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=86bb6c444e731615810932f71a9ff3d1}{%
+           family={Frank},
+           familyi={F\bibinitperiod},
+           given={Dana},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Inc}%
+      }
+      \strng{namehash}{86bb6c444e731615810932f71a9ff3d1}
+      \strng{fullhash}{86bb6c444e731615810932f71a9ff3d1}
+      \strng{fullhashraw}{86bb6c444e731615810932f71a9ff3d1}
+      \strng{bibnamehash}{86bb6c444e731615810932f71a9ff3d1}
+      \strng{authorbibnamehash}{86bb6c444e731615810932f71a9ff3d1}
+      \strng{authornamehash}{86bb6c444e731615810932f71a9ff3d1}
+      \strng{authorfullhash}{86bb6c444e731615810932f71a9ff3d1}
+      \strng{authorfullhashraw}{86bb6c444e731615810932f71a9ff3d1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Politics \& Society}
+      \field{number}{3}
+      \field{title}{Where {Are} the {Workers} in {Consumer}-{Worker} {Alliances}? {Class} {Dynamics} and the {History} of {Consumer}-{Labor} {Campaigns}}
+      \field{volume}{31}
+      \field{year}{2003}
+      \field{pages}{373}
+      \range{pages}{1}
+    \endentry
+    \entry{frymer_labor_2020}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=10010d1c61d42f471eedcdaa612a82ea}{%
+           family={Frymer},
+           familyi={F\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=98583cb91b62e0d7828dfd3872847821}{%
+           family={Grumbach},
+           familyi={G\bibinitperiod},
+           given={Jacob},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley-Blackwell}%
+      }
+      \strng{namehash}{1ec046071dc5059aba7f1b3d9d4d5f78}
+      \strng{fullhash}{1ec046071dc5059aba7f1b3d9d4d5f78}
+      \strng{fullhashraw}{1ec046071dc5059aba7f1b3d9d4d5f78}
+      \strng{bibnamehash}{1ec046071dc5059aba7f1b3d9d4d5f78}
+      \strng{authorbibnamehash}{1ec046071dc5059aba7f1b3d9d4d5f78}
+      \strng{authornamehash}{1ec046071dc5059aba7f1b3d9d4d5f78}
+      \strng{authorfullhash}{1ec046071dc5059aba7f1b3d9d4d5f78}
+      \strng{authorfullhashraw}{1ec046071dc5059aba7f1b3d9d4d5f78}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Political Science}
+      \field{month}{6}
+      \field{title}{Labor {Unions} and {White} {Racial} {Politics}}
+      \field{year}{2020}
+      \verb{doi}
+      \verb https://doi-org.elib.tcd.ie/10.1111/ajps.12537
+      \endverb
+    \endentry
+    \entry{galindo_are_2006}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=268a6434e8e137fbbfd42eee644fa271}{%
+           family={Galindo},
+           familyi={G\bibinitperiod},
+           given={Rene},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a24d78364b505e4202339c3f4fb399db}{%
+           family={Vigil},
+           familyi={V\bibinitperiod},
+           given={Jami},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{44e1f8ad5ad917e033e73f339095091b}
+      \strng{fullhash}{44e1f8ad5ad917e033e73f339095091b}
+      \strng{fullhashraw}{44e1f8ad5ad917e033e73f339095091b}
+      \strng{bibnamehash}{44e1f8ad5ad917e033e73f339095091b}
+      \strng{authorbibnamehash}{44e1f8ad5ad917e033e73f339095091b}
+      \strng{authornamehash}{44e1f8ad5ad917e033e73f339095091b}
+      \strng{authorfullhash}{44e1f8ad5ad917e033e73f339095091b}
+      \strng{authorfullhashraw}{44e1f8ad5ad917e033e73f339095091b}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Latino Studies}
+      \field{title}{Are {Anti}-{Immigrant} {Statements} {Racist} or {Nativist}? {What} {Difference} {Does} it {Make}?}
+      \field{volume}{4}
+      \field{year}{2006}
+      \field{pages}{419\bibrangedash 447}
+      \range{pages}{29}
+      \keyw{Lit Review,Nativism Def,Concepts,Words,ETC}
+    \endentry
+    \entry{gavrilos_becoming_2010}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f0638f4289e9522d280aae57b6d7a5e6}{%
+           family={Gavrilos},
+           familyi={G\bibinitperiod},
+           given={Dina},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Tanford}%
+      }
+      \strng{namehash}{f0638f4289e9522d280aae57b6d7a5e6}
+      \strng{fullhash}{f0638f4289e9522d280aae57b6d7a5e6}
+      \strng{fullhashraw}{f0638f4289e9522d280aae57b6d7a5e6}
+      \strng{bibnamehash}{f0638f4289e9522d280aae57b6d7a5e6}
+      \strng{authorbibnamehash}{f0638f4289e9522d280aae57b6d7a5e6}
+      \strng{authornamehash}{f0638f4289e9522d280aae57b6d7a5e6}
+      \strng{authorfullhash}{f0638f4289e9522d280aae57b6d7a5e6}
+      \strng{authorfullhashraw}{f0638f4289e9522d280aae57b6d7a5e6}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Critical Discourse Studies}
+      \field{month}{3}
+      \field{number}{2}
+      \field{title}{Becoming ‘100\% {American}’: negotiating ethnic identities through nativist discourse}
+      \field{volume}{7}
+      \field{year}{2010}
+      \field{pages}{95\bibrangedash 112}
+      \range{pages}{18}
+    \endentry
+    \entry{gitlin_whole_1980}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=39d877dfde3128590553687acca2e93a}{%
+           family={Gitlin},
+           familyi={G\bibinitperiod},
+           given={Todd},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Berkeley, CA}%
+      }
+      \list{publisher}{1}{%
+        {University of California Press}%
+      }
+      \strng{namehash}{39d877dfde3128590553687acca2e93a}
+      \strng{fullhash}{39d877dfde3128590553687acca2e93a}
+      \strng{fullhashraw}{39d877dfde3128590553687acca2e93a}
+      \strng{bibnamehash}{39d877dfde3128590553687acca2e93a}
+      \strng{authorbibnamehash}{39d877dfde3128590553687acca2e93a}
+      \strng{authornamehash}{39d877dfde3128590553687acca2e93a}
+      \strng{authorfullhash}{39d877dfde3128590553687acca2e93a}
+      \strng{authorfullhashraw}{39d877dfde3128590553687acca2e93a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The {Whole} {World} {Is} {Watching}: {Mass} {Media} in the {Making} and {Unmaking} of the {New} {Left}.}
+      \field{year}{1980}
+    \endentry
+    \entry{gomez_rhetorics_2024}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7c9196faf1069bcfaa559e6593e8672c}{%
+           family={Gomez},
+           familyi={G\bibinitperiod},
+           given={Logan\bibnamedelima Rae},
+           giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cbbf58a93bf7159aeec64a58ee300751}{%
+           family={Torres},
+           familyi={T\bibinitperiod},
+           given={Mikayla},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Tanford}%
+      }
+      \strng{namehash}{a7023eef8349e214220e30dae72cd568}
+      \strng{fullhash}{a7023eef8349e214220e30dae72cd568}
+      \strng{fullhashraw}{a7023eef8349e214220e30dae72cd568}
+      \strng{bibnamehash}{a7023eef8349e214220e30dae72cd568}
+      \strng{authorbibnamehash}{a7023eef8349e214220e30dae72cd568}
+      \strng{authornamehash}{a7023eef8349e214220e30dae72cd568}
+      \strng{authorfullhash}{a7023eef8349e214220e30dae72cd568}
+      \strng{authorfullhashraw}{a7023eef8349e214220e30dae72cd568}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Quarterly Journal of Speech}
+      \field{month}{10}
+      \field{number}{4}
+      \field{title}{Rhetorics of white preservation: racial violence and the {Johnson}–{Reed} {Act}}
+      \field{volume}{110}
+      \field{year}{2024}
+    \endentry
+    \entry{guia_concept_nodate}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f4451ebfca3e69ae602c64e277f7e618}{%
+           family={Guia},
+           familyi={G\bibinitperiod},
+           given={Aitana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f4451ebfca3e69ae602c64e277f7e618}
+      \strng{fullhash}{f4451ebfca3e69ae602c64e277f7e618}
+      \strng{fullhashraw}{f4451ebfca3e69ae602c64e277f7e618}
+      \strng{bibnamehash}{f4451ebfca3e69ae602c64e277f7e618}
+      \strng{authorbibnamehash}{f4451ebfca3e69ae602c64e277f7e618}
+      \strng{authornamehash}{f4451ebfca3e69ae602c64e277f7e618}
+      \strng{authorfullhash}{f4451ebfca3e69ae602c64e277f7e618}
+      \strng{authorfullhashraw}{f4451ebfca3e69ae602c64e277f7e618}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European University Institute}
+      \field{title}{The {Concept} of {Nativism} and {Anti}-{Immigrant} {Sentiments} in {Europe}}
+      \keyw{Nativism Def,Concepts,Words,ETC}
+    \endentry
+    \entry{hernandez_crimes_2006}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbca8c0e149e84b3121f21c4585f180b}{%
+           family={Hernandez},
+           familyi={H\bibinitperiod},
+           given={Kelly\bibnamedelima Lytle},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Western History Association}%
+      }
+      \strng{namehash}{cbca8c0e149e84b3121f21c4585f180b}
+      \strng{fullhash}{cbca8c0e149e84b3121f21c4585f180b}
+      \strng{fullhashraw}{cbca8c0e149e84b3121f21c4585f180b}
+      \strng{bibnamehash}{cbca8c0e149e84b3121f21c4585f180b}
+      \strng{authorbibnamehash}{cbca8c0e149e84b3121f21c4585f180b}
+      \strng{authornamehash}{cbca8c0e149e84b3121f21c4585f180b}
+      \strng{authorfullhash}{cbca8c0e149e84b3121f21c4585f180b}
+      \strng{authorfullhashraw}{cbca8c0e149e84b3121f21c4585f180b}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Western Historical Quarterly}
+      \field{title}{The {Crimes} and {Consequences} of {Illegal} {Immigration}: {A} {Cross}-{Border} {Examinational} of {Operation} {Wetback} 1943 to 1954}
+      \field{volume}{37}
+      \field{year}{2006}
+      \field{pages}{421\bibrangedash 44}
+      \range{pages}{24}
+    \endentry
+    \entry{higham_strangers_1955}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bd92e7bd7b4652080f2567fae8976730}{%
+           family={Higham},
+           familyi={H\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Rutgers University Press}%
+      }
+      \strng{namehash}{bd92e7bd7b4652080f2567fae8976730}
+      \strng{fullhash}{bd92e7bd7b4652080f2567fae8976730}
+      \strng{fullhashraw}{bd92e7bd7b4652080f2567fae8976730}
+      \strng{bibnamehash}{bd92e7bd7b4652080f2567fae8976730}
+      \strng{authorbibnamehash}{bd92e7bd7b4652080f2567fae8976730}
+      \strng{authornamehash}{bd92e7bd7b4652080f2567fae8976730}
+      \strng{authorfullhash}{bd92e7bd7b4652080f2567fae8976730}
+      \strng{authorfullhashraw}{bd92e7bd7b4652080f2567fae8976730}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{Nativism, therefore, should be defined as intense opposition to an internal minority on the ground of its foreign (1.e., “un-American’’) connections. Spe- cific nativistic antagonisms may, and do, vary widely in response to the changing character of minority irritants and the shifting conditions of the day; but through each separate hostility runs the connecting, energizing force of modern nationalism page 16}
+      \field{title}{Strangers in the land: patterns of {American} nativism, 1860-1925}
+      \field{year}{1955}
+    \endentry
+    \entry{hinnershitz_demanding_2015}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=37e33388f5aad0e5e35807cc476e5535}{%
+           family={Hinnershitz},
+           familyi={H\bibinitperiod},
+           given={Stephanie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{37e33388f5aad0e5e35807cc476e5535}
+      \strng{fullhash}{37e33388f5aad0e5e35807cc476e5535}
+      \strng{fullhashraw}{37e33388f5aad0e5e35807cc476e5535}
+      \strng{bibnamehash}{37e33388f5aad0e5e35807cc476e5535}
+      \strng{authorbibnamehash}{37e33388f5aad0e5e35807cc476e5535}
+      \strng{authornamehash}{37e33388f5aad0e5e35807cc476e5535}
+      \strng{authorfullhash}{37e33388f5aad0e5e35807cc476e5535}
+      \strng{authorfullhashraw}{37e33388f5aad0e5e35807cc476e5535}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Immigrants \& Minorities Historical Studies in Ethnicity, Migration and Diaspora}
+      \field{number}{1}
+      \field{title}{Demanding an ‘adequate solution:’ the {American} {Legion}, the {Immigration} {Act} of 1924, and the politics of exclusion}
+      \field{volume}{34}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 21}
+      \range{pages}{21}
+    \endentry
+    \entry{hobson_lavender_2016}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e6f240cb327387dbf22bc9f73815517a}{%
+           family={Hobson},
+           familyi={H\bibinitperiod},
+           given={Emily},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of California Press}%
+      }
+      \strng{namehash}{e6f240cb327387dbf22bc9f73815517a}
+      \strng{fullhash}{e6f240cb327387dbf22bc9f73815517a}
+      \strng{fullhashraw}{e6f240cb327387dbf22bc9f73815517a}
+      \strng{bibnamehash}{e6f240cb327387dbf22bc9f73815517a}
+      \strng{authorbibnamehash}{e6f240cb327387dbf22bc9f73815517a}
+      \strng{authornamehash}{e6f240cb327387dbf22bc9f73815517a}
+      \strng{authorfullhash}{e6f240cb327387dbf22bc9f73815517a}
+      \strng{authorfullhashraw}{e6f240cb327387dbf22bc9f73815517a}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Scholarship is a powerful tool for changing how people think, plan, and govern. By giving voice to bright minds and bold ideas, we seek to foster understanding and drive progressive change.}
+      \field{edition}{1st}
+      \field{isbn}{978-0-520-27906-3}
+      \field{month}{10}
+      \field{title}{Lavender and {Red} {Liberation} and {Solidarity} in the {Gay} and {Lesbian} {Left}}
+      \field{year}{2016}
+      \verb{file}
+      \verb Snapshot:/Users/zahrita/Zotero/storage/SNPSVQQI/epub-pdf.html:text/html
+      \endverb
+    \endentry
+    \entry{hubbard_national_2011}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e0279bd86786472a351c6e30a45b0800}{%
+           family={Hubbard},
+           familyi={H\bibinitperiod},
+           given={Sara-Marni},
+           giveni={S\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Concordia University}%
+      }
+      \list{location}{1}{%
+        {Montreal, Quebec, Canada}%
+      }
+      \strng{namehash}{e0279bd86786472a351c6e30a45b0800}
+      \strng{fullhash}{e0279bd86786472a351c6e30a45b0800}
+      \strng{fullhashraw}{e0279bd86786472a351c6e30a45b0800}
+      \strng{bibnamehash}{e0279bd86786472a351c6e30a45b0800}
+      \strng{authorbibnamehash}{e0279bd86786472a351c6e30a45b0800}
+      \strng{authornamehash}{e0279bd86786472a351c6e30a45b0800}
+      \strng{authorfullhash}{e0279bd86786472a351c6e30a45b0800}
+      \strng{authorfullhashraw}{e0279bd86786472a351c6e30a45b0800}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{title}{A {National} {Threat}: {Eugenic} {Perspectives} on {Mexican} {Immigrant} {Labor} in the {United} {States} {During} the {Great} {Depression}}
+      \field{type}{phdthesis}
+      \field{year}{2011}
+    \endentry
+    \entry{julian_laws_2019}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c52e361a878300e1a87ec4fedc1d7aca}{%
+           family={Julian},
+           familyi={J\bibinitperiod},
+           given={Lim},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fca01b0f31e33d1eb518ac806badd4a2}{%
+           family={Marinari},
+           familyi={M\bibinitperiod},
+           given={Maddalena},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{4c90245f1df462d37d4e6dd986582eaf}
+      \strng{fullhash}{4c90245f1df462d37d4e6dd986582eaf}
+      \strng{fullhashraw}{4c90245f1df462d37d4e6dd986582eaf}
+      \strng{bibnamehash}{4c90245f1df462d37d4e6dd986582eaf}
+      \strng{authorbibnamehash}{4c90245f1df462d37d4e6dd986582eaf}
+      \strng{authornamehash}{4c90245f1df462d37d4e6dd986582eaf}
+      \strng{authorfullhash}{4c90245f1df462d37d4e6dd986582eaf}
+      \strng{authorfullhashraw}{4c90245f1df462d37d4e6dd986582eaf}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Modern American History}
+      \field{title}{Laws for a {Nation} of {Nativists} and {Immigrants}}
+      \field{volume}{2}
+      \field{year}{2019}
+      \field{pages}{49\bibrangedash 53}
+      \range{pages}{5}
+    \endentry
+    \entry{kazin_barons_1989}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b04f4d69d91aa6ea7fe942df5474bf68}{%
+           family={Kazin},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Illinois Press}%
+      }
+      \strng{namehash}{b04f4d69d91aa6ea7fe942df5474bf68}
+      \strng{fullhash}{b04f4d69d91aa6ea7fe942df5474bf68}
+      \strng{fullhashraw}{b04f4d69d91aa6ea7fe942df5474bf68}
+      \strng{bibnamehash}{b04f4d69d91aa6ea7fe942df5474bf68}
+      \strng{authorbibnamehash}{b04f4d69d91aa6ea7fe942df5474bf68}
+      \strng{authornamehash}{b04f4d69d91aa6ea7fe942df5474bf68}
+      \strng{authorfullhash}{b04f4d69d91aa6ea7fe942df5474bf68}
+      \strng{authorfullhashraw}{b04f4d69d91aa6ea7fe942df5474bf68}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Barons of {Labor}: {The} {San} {Francisco} {Building} {Trades} and {Union} {Power} in the {Progressive} {Era}.}
+      \field{year}{1989}
+    \endentry
+    \entry{kitschelt_political_1986}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fd3cf9378c00b80ac1d69daaca87c98d}{%
+           family={Kitschelt},
+           familyi={K\bibinitperiod},
+           given={Herbert\bibnamedelima P},
+           giveni={H\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fd3cf9378c00b80ac1d69daaca87c98d}
+      \strng{fullhash}{fd3cf9378c00b80ac1d69daaca87c98d}
+      \strng{fullhashraw}{fd3cf9378c00b80ac1d69daaca87c98d}
+      \strng{bibnamehash}{fd3cf9378c00b80ac1d69daaca87c98d}
+      \strng{authorbibnamehash}{fd3cf9378c00b80ac1d69daaca87c98d}
+      \strng{authornamehash}{fd3cf9378c00b80ac1d69daaca87c98d}
+      \strng{authorfullhash}{fd3cf9378c00b80ac1d69daaca87c98d}
+      \strng{authorfullhashraw}{fd3cf9378c00b80ac1d69daaca87c98d}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{British Journal of Political Science}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Political {Opportunity} {Structures} and {Political} {Protest}: {Anti}-{Nuclear} {Movements} in {Four} {Democracies}}
+      \field{volume}{16}
+      \field{year}{1986}
+    \endentry
+    \entry{lee_hemispheric_2007}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fba670523e96c16a345c159c806a39ce}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Erika},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fba670523e96c16a345c159c806a39ce}
+      \strng{fullhash}{fba670523e96c16a345c159c806a39ce}
+      \strng{fullhashraw}{fba670523e96c16a345c159c806a39ce}
+      \strng{bibnamehash}{fba670523e96c16a345c159c806a39ce}
+      \strng{authorbibnamehash}{fba670523e96c16a345c159c806a39ce}
+      \strng{authornamehash}{fba670523e96c16a345c159c806a39ce}
+      \strng{authorfullhash}{fba670523e96c16a345c159c806a39ce}
+      \strng{authorfullhashraw}{fba670523e96c16a345c159c806a39ce}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Amerasia Journal}
+      \field{number}{2}
+      \field{title}{Hemispheric {Orientalism} and the 1907 {Pacific} {Coast} {Race} {Riots}}
+      \field{volume}{33}
+      \field{year}{2007}
+    \endentry
+    \entry{lovasy_prices_1956}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8739757c02b76643a94f800c6a3de859}{%
+           family={Lovasy},
+           familyi={L\bibinitperiod},
+           given={Gertrud},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8739757c02b76643a94f800c6a3de859}
+      \strng{fullhash}{8739757c02b76643a94f800c6a3de859}
+      \strng{fullhashraw}{8739757c02b76643a94f800c6a3de859}
+      \strng{bibnamehash}{8739757c02b76643a94f800c6a3de859}
+      \strng{authorbibnamehash}{8739757c02b76643a94f800c6a3de859}
+      \strng{authornamehash}{8739757c02b76643a94f800c6a3de859}
+      \strng{authorfullhash}{8739757c02b76643a94f800c6a3de859}
+      \strng{authorfullhashraw}{8739757c02b76643a94f800c6a3de859}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Montetary Foundation eLibrary}
+      \field{title}{Prices of {Raw} {Materials} in the 1953–54 {U}.{S}. {Recession}}
+      \field{year}{1956}
+      \verb{urlraw}
+      \verb https://www.elibrary.imf.org/view/journals/024/1956/001/article-A003-en.xml
+      \endverb
+      \verb{url}
+      \verb https://www.elibrary.imf.org/view/journals/024/1956/001/article-A003-en.xml
+      \endverb
+    \endentry
+    \entry{mccarthy_resource_1977}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=79a463d5dcd87334e10990ab308fd865}{%
+           family={McCarthy},
+           familyi={M\bibinitperiod},
+           given={John\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=121e5e08bafaa132629f98ce91661f44}{%
+           family={Zaid},
+           familyi={Z\bibinitperiod},
+           given={Mayer\bibnamedelima N.},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The University of Chicago Press}%
+      }
+      \strng{namehash}{403cb476a4eeb30e73a0d1d3c76bcec5}
+      \strng{fullhash}{403cb476a4eeb30e73a0d1d3c76bcec5}
+      \strng{fullhashraw}{403cb476a4eeb30e73a0d1d3c76bcec5}
+      \strng{bibnamehash}{403cb476a4eeb30e73a0d1d3c76bcec5}
+      \strng{authorbibnamehash}{403cb476a4eeb30e73a0d1d3c76bcec5}
+      \strng{authornamehash}{403cb476a4eeb30e73a0d1d3c76bcec5}
+      \strng{authorfullhash}{403cb476a4eeb30e73a0d1d3c76bcec5}
+      \strng{authorfullhashraw}{403cb476a4eeb30e73a0d1d3c76bcec5}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Sociology}
+      \field{month}{5}
+      \field{number}{6}
+      \field{title}{Resource {Mobilization} and {Social} {Movements}: {A} {Partial} {Theory}}
+      \field{volume}{82}
+      \field{year}{1977}
+    \endentry
+    \entry{mcmahon_open_1909}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c6db742b67410b289e099cd84f2888c5}{%
+           family={McMahon},
+           familyi={M\bibinitperiod},
+           given={H.\bibnamedelimi F.},
+           giveni={H\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {San Francisco, CA}%
+      }
+      \list{publisher}{1}{%
+        {California Digital Newspaper Collection}%
+      }
+      \strng{namehash}{c6db742b67410b289e099cd84f2888c5}
+      \strng{fullhash}{c6db742b67410b289e099cd84f2888c5}
+      \strng{fullhashraw}{c6db742b67410b289e099cd84f2888c5}
+      \strng{bibnamehash}{c6db742b67410b289e099cd84f2888c5}
+      \strng{authorbibnamehash}{c6db742b67410b289e099cd84f2888c5}
+      \strng{authornamehash}{c6db742b67410b289e099cd84f2888c5}
+      \strng{authorfullhash}{c6db742b67410b289e099cd84f2888c5}
+      \strng{authorfullhashraw}{c6db742b67410b289e099cd84f2888c5}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Organized Labor}
+      \field{month}{3}
+      \field{number}{11}
+      \field{title}{{AN} {OPEN} {LETTER} {TO} {ROOSEVELT}.}
+      \field{volume}{10}
+      \field{year}{1909}
+      \verb{urlraw}
+      \verb https://cdnc.ucr.edu/?a=d&d=OLSF19090313.2.46
+      \endverb
+      \verb{url}
+      \verb https://cdnc.ucr.edu/?a=d&d=OLSF19090313.2.46
+      \endverb
+    \endentry
+    \entry{mcwilliams_brothers_1951}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=13b9d310ba9bf02ba5bd2026b4f7dc9a}{%
+           family={McWilliams},
+           familyi={M\bibinitperiod},
+           given={Carey},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Little Brown}%
+      }
+      \strng{namehash}{13b9d310ba9bf02ba5bd2026b4f7dc9a}
+      \strng{fullhash}{13b9d310ba9bf02ba5bd2026b4f7dc9a}
+      \strng{fullhashraw}{13b9d310ba9bf02ba5bd2026b4f7dc9a}
+      \strng{bibnamehash}{13b9d310ba9bf02ba5bd2026b4f7dc9a}
+      \strng{authorbibnamehash}{13b9d310ba9bf02ba5bd2026b4f7dc9a}
+      \strng{authornamehash}{13b9d310ba9bf02ba5bd2026b4f7dc9a}
+      \strng{authorfullhash}{13b9d310ba9bf02ba5bd2026b4f7dc9a}
+      \strng{authorfullhashraw}{13b9d310ba9bf02ba5bd2026b4f7dc9a}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{title}{Brothers {Under} the {Skin}}
+      \field{year}{1951}
+    \endentry
+    \entry{menchaca_recovering_2001}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4613c907309a228f78ad9eaa52c671ca}{%
+           family={Menchaca},
+           familyi={M\bibinitperiod},
+           given={Martha},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Texas pRESS}%
+      }
+      \strng{namehash}{4613c907309a228f78ad9eaa52c671ca}
+      \strng{fullhash}{4613c907309a228f78ad9eaa52c671ca}
+      \strng{fullhashraw}{4613c907309a228f78ad9eaa52c671ca}
+      \strng{bibnamehash}{4613c907309a228f78ad9eaa52c671ca}
+      \strng{authorbibnamehash}{4613c907309a228f78ad9eaa52c671ca}
+      \strng{authornamehash}{4613c907309a228f78ad9eaa52c671ca}
+      \strng{authorfullhash}{4613c907309a228f78ad9eaa52c671ca}
+      \strng{authorfullhashraw}{4613c907309a228f78ad9eaa52c671ca}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Recovering history, constructing race: {The} {Indian}, black, and white roots of {Mexican} {Americans}}
+      \field{year}{2001}
+    \endentry
+    \entry{minchin_new_2024}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=85ceb577e1fcc336ed9df680f09443b9}{%
+           family={Minchin},
+           familyi={M\bibinitperiod},
+           given={Timothy\bibnamedelima J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{85ceb577e1fcc336ed9df680f09443b9}
+      \strng{fullhash}{85ceb577e1fcc336ed9df680f09443b9}
+      \strng{fullhashraw}{85ceb577e1fcc336ed9df680f09443b9}
+      \strng{bibnamehash}{85ceb577e1fcc336ed9df680f09443b9}
+      \strng{authorbibnamehash}{85ceb577e1fcc336ed9df680f09443b9}
+      \strng{authornamehash}{85ceb577e1fcc336ed9df680f09443b9}
+      \strng{authorfullhash}{85ceb577e1fcc336ed9df680f09443b9}
+      \strng{authorfullhashraw}{85ceb577e1fcc336ed9df680f09443b9}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Labor History}
+      \field{month}{3}
+      \field{number}{4}
+      \field{title}{A new labor movement? {Assesing} the worker upsure in the contemporary {U}.{S}.}
+      \field{volume}{65}
+      \field{year}{2024}
+    \endentry
+    \entry{monkkonen_challenge_1984}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4d49d0013cbf8d3cc00f74f3e4378674}{%
+           family={Monkkonen},
+           familyi={M\bibinitperiod},
+           given={Eric\bibnamedelima H.},
+           giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis Group}%
+      }
+      \strng{namehash}{4d49d0013cbf8d3cc00f74f3e4378674}
+      \strng{fullhash}{4d49d0013cbf8d3cc00f74f3e4378674}
+      \strng{fullhashraw}{4d49d0013cbf8d3cc00f74f3e4378674}
+      \strng{bibnamehash}{4d49d0013cbf8d3cc00f74f3e4378674}
+      \strng{authorbibnamehash}{4d49d0013cbf8d3cc00f74f3e4378674}
+      \strng{authornamehash}{4d49d0013cbf8d3cc00f74f3e4378674}
+      \strng{authorfullhash}{4d49d0013cbf8d3cc00f74f3e4378674}
+      \strng{authorfullhashraw}{4d49d0013cbf8d3cc00f74f3e4378674}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Historical Methods: A Journal of Quantitative and Interdisciplinary History}
+      \field{number}{3}
+      \field{title}{The {Challenge} of {Quantitative} {History}}
+      \field{volume}{17}
+      \field{year}{1984}
+    \endentry
+    \entry{mukherjee_reasonable_2013}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=915cde55b127499287652c494bedc5d4}{%
+           family={Mukherjee},
+           familyi={M\bibinitperiod},
+           given={Sahana},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ef5b14790e5ab5ca942a639f7a7945e7}{%
+           family={Molina},
+           familyi={M\bibinitperiod},
+           given={Ludwin\bibnamedelima E.},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6bbf7566e356275b73406869607a5e44}{%
+           family={Adams},
+           familyi={A\bibinitperiod},
+           given={Glenn},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{506e3787125acd9c5648502f4d833ada}
+      \strng{fullhash}{506e3787125acd9c5648502f4d833ada}
+      \strng{fullhashraw}{506e3787125acd9c5648502f4d833ada}
+      \strng{bibnamehash}{506e3787125acd9c5648502f4d833ada}
+      \strng{authorbibnamehash}{506e3787125acd9c5648502f4d833ada}
+      \strng{authornamehash}{506e3787125acd9c5648502f4d833ada}
+      \strng{authorfullhash}{506e3787125acd9c5648502f4d833ada}
+      \strng{authorfullhashraw}{506e3787125acd9c5648502f4d833ada}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cultural Diversity and Ethnic Minority Psychology}
+      \field{number}{3}
+      \field{title}{“{Reasonable} {Suspicion}” {About} {Tough} {Immigration} {Legislation}: {Enforcing} {Laws} or {Ethnocentric} {Exclusion}?}
+      \field{volume}{19}
+      \field{year}{2013}
+      \verb{doi}
+      \verb 10.1037/a0032944
+      \endverb
+    \endentry
+    \entry{mukherjee_support_2018}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=915cde55b127499287652c494bedc5d4}{%
+           family={Mukherjee},
+           familyi={M\bibinitperiod},
+           given={Sahana},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ef5b14790e5ab5ca942a639f7a7945e7}{%
+           family={Molina},
+           familyi={M\bibinitperiod},
+           given={Ludwin\bibnamedelima E.},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6bbf7566e356275b73406869607a5e44}{%
+           family={Adams},
+           familyi={A\bibinitperiod},
+           given={Glenn},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The Society for the Psychological Study of Social Issues}%
+      }
+      \strng{namehash}{506e3787125acd9c5648502f4d833ada}
+      \strng{fullhash}{506e3787125acd9c5648502f4d833ada}
+      \strng{fullhashraw}{506e3787125acd9c5648502f4d833ada}
+      \strng{bibnamehash}{506e3787125acd9c5648502f4d833ada}
+      \strng{authorbibnamehash}{506e3787125acd9c5648502f4d833ada}
+      \strng{authornamehash}{506e3787125acd9c5648502f4d833ada}
+      \strng{authorfullhash}{506e3787125acd9c5648502f4d833ada}
+      \strng{authorfullhashraw}{506e3787125acd9c5648502f4d833ada}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Social Issues}
+      \field{number}{4}
+      \field{title}{Support for {Tough} {Immigration} {Policy}: {Identity} {Defense} or {Concern} for {Law} and {Order}?}
+      \field{volume}{74}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1111/josi.12294
+      \endverb
+    \endentry
+    \entry{murcia_anti-war_2025}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cde2fc7de823ba74a27e2a362e0fc672}{%
+           family={Murcia},
+           familyi={M\bibinitperiod},
+           given={Ruth},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cde2fc7de823ba74a27e2a362e0fc672}
+      \strng{fullhash}{cde2fc7de823ba74a27e2a362e0fc672}
+      \strng{fullhashraw}{cde2fc7de823ba74a27e2a362e0fc672}
+      \strng{bibnamehash}{cde2fc7de823ba74a27e2a362e0fc672}
+      \strng{authorbibnamehash}{cde2fc7de823ba74a27e2a362e0fc672}
+      \strng{authornamehash}{cde2fc7de823ba74a27e2a362e0fc672}
+      \strng{authorfullhash}{cde2fc7de823ba74a27e2a362e0fc672}
+      \strng{authorfullhashraw}{cde2fc7de823ba74a27e2a362e0fc672}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{NACLA Report on the Americas}
+      \field{number}{2}
+      \field{title}{From {Anti}-{War} to {Anti}-{Immigrant}}
+      \field{volume}{57}
+      \field{year}{2025}
+      \field{pages}{157\bibrangedash 162}
+      \range{pages}{6}
+    \endentry
+    \entry{newth_rethinking_2021}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6bc151e97994575d4483540d8471b011}{%
+           family={Newth},
+           familyi={N\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6bc151e97994575d4483540d8471b011}
+      \strng{fullhash}{6bc151e97994575d4483540d8471b011}
+      \strng{fullhashraw}{6bc151e97994575d4483540d8471b011}
+      \strng{bibnamehash}{6bc151e97994575d4483540d8471b011}
+      \strng{authorbibnamehash}{6bc151e97994575d4483540d8471b011}
+      \strng{authornamehash}{6bc151e97994575d4483540d8471b011}
+      \strng{authorfullhash}{6bc151e97994575d4483540d8471b011}
+      \strng{authorfullhashraw}{6bc151e97994575d4483540d8471b011}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Identities: Global Studies in Culture and Power}
+      \field{month}{8}
+      \field{number}{2}
+      \field{title}{Rethinking ‘nativism’: beyond the ideational approach}
+      \field{volume}{30}
+      \field{year}{2021}
+      \field{pages}{161\bibrangedash 180}
+      \range{pages}{20}
+      \verb{urlraw}
+      \verb https://doi.org/10.10/1070289X.2021.1969161
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.10/1070289X.2021.1969161
+      \endverb
+    \endentry
+    \entry{olzak_competition_2013}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f75a4dadc8060c6186dd3d8527041dfb}{%
+           family={Olzak},
+           familyi={O\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell Publishing Ltd}%
+      }
+      \strng{namehash}{f75a4dadc8060c6186dd3d8527041dfb}
+      \strng{fullhash}{f75a4dadc8060c6186dd3d8527041dfb}
+      \strng{fullhashraw}{f75a4dadc8060c6186dd3d8527041dfb}
+      \strng{bibnamehash}{f75a4dadc8060c6186dd3d8527041dfb}
+      \strng{authorbibnamehash}{f75a4dadc8060c6186dd3d8527041dfb}
+      \strng{authornamehash}{f75a4dadc8060c6186dd3d8527041dfb}
+      \strng{authorfullhash}{f75a4dadc8060c6186dd3d8527041dfb}
+      \strng{authorfullhashraw}{f75a4dadc8060c6186dd3d8527041dfb}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Wiley-Blackwell Encyclopedia of Social and Political Movements}
+      \field{title}{Competition theory of ethnic/racial conflict and protest}
+      \field{year}{2013}
+      \verb{doi}
+      \verb 10.1002/9781405198431
+      \endverb
+    \endentry
+    \entry{noauthor_survey_1954}{article}{}{}
+      \list{location}{1}{%
+        {San Francisco, CA}%
+      }
+      \list{publisher}{1}{%
+        {University of California, Riverside}%
+      }
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Organized Labor}
+      \field{month}{4}
+      \field{number}{34}
+      \field{title}{A {Survey} of {California} {Unemployment} {How} {Jobless} {Figures} {Are} {Juggled}}
+      \field{volume}{53}
+      \field{year}{1954}
+      \verb{urlraw}
+      \verb https://cdnc.ucr.edu/?a=d&d=OLSF19540416.2.47&srpos=20&e=-------en--20-OLSF-1-byDA-txt-txIN-HOW+jobless+figures-------
+      \endverb
+      \verb{url}
+      \verb https://cdnc.ucr.edu/?a=d&d=OLSF19540416.2.47&srpos=20&e=-------en--20-OLSF-1-byDA-txt-txIN-HOW+jobless+figures-------
+      \endverb
+    \endentry
+    \entry{noauthor_america_1930}{article}{}{}
+      \list{publisher}{1}{%
+        {University of California, Riverside}%
+      }
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Organized Labor}
+      \field{month}{6}
+      \field{number}{25}
+      \field{title}{America {Should} be {Kept} {White}}
+      \field{volume}{31}
+      \field{year}{1930}
+      \verb{urlraw}
+      \verb https://cdnc.ucr.edu/?a=d&d=OLSF19300621.2.38&srpos=1&e=-------en--20-OLSF-1--txt-txIN-America+Should+be+Kept+White-------
+      \endverb
+      \verb{url}
+      \verb https://cdnc.ucr.edu/?a=d&d=OLSF19300621.2.38&srpos=1&e=-------en--20-OLSF-1--txt-txIN-America+Should+be+Kept+White-------
+      \endverb
+    \endentry
+    \entry{noauthor_deportations_1931}{article}{}{}
+      \list{publisher}{1}{%
+        {University of California, Riverside}%
+      }
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Organized Labor}
+      \field{month}{5}
+      \field{number}{19}
+      \field{title}{{DEPORTATIONS} {NOW} {EXCEED} {IMMIGRATION} {Exodus} {Is} {Held} to {Help} {Relieve} {Unemployment}}
+      \field{volume}{32}
+      \field{year}{1931}
+      \verb{urlraw}
+      \verb https://cdnc.ucr.edu/?a=d&d=OLSF19310509.2.8&srpos=26&e=------193-en--20-OLSF-21-byDA-txt-txIN-Doak----1931---
+      \endverb
+      \verb{url}
+      \verb https://cdnc.ucr.edu/?a=d&d=OLSF19310509.2.8&srpos=26&e=------193-en--20-OLSF-21-byDA-txt-txIN-Doak----1931---
+      \endverb
+    \endentry
+    \entry{noauthor_economic_1981}{article}{}{}
+      \list{publisher}{1}{%
+        {University of California, Riverside}%
+      }
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Organized Labor}
+      \field{month}{1}
+      \field{number}{2}
+      \field{title}{Economic {Ills}, {Election} {Top} ’{BO} {Issues}}
+      \field{volume}{81}
+      \field{year}{1981}
+      \verb{urlraw}
+      \verb https://cdnc.ucr.edu/?a=d&d=OLSF19810126.2.14&srpos=2&e=-------en--20-OLSF-1-byDA.rev-txt-txIN-Carter+ends-------
+      \endverb
+      \verb{url}
+      \verb https://cdnc.ucr.edu/?a=d&d=OLSF19810126.2.14&srpos=2&e=-------en--20-OLSF-1-byDA.rev-txt-txIN-Carter+ends-------
+      \endverb
+    \endentry
+    \entry{noauthor_importation_1942}{article}{}{}
+      \list{location}{1}{%
+        {San Francisco, CA}%
+      }
+      \list{publisher}{1}{%
+        {University of California, Riverside}%
+      }
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Organized Labor}
+      \field{month}{6}
+      \field{number}{26}
+      \field{title}{{IMPORTATION} {OF} {MEXICAN} {FARM} {LABORERS} {INTO} {CALIFORNIA} {VITAL} {NECESSITY}}
+      \field{volume}{43}
+      \field{year}{1942}
+      \field{pages}{3}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://cdnc.ucr.edu/?a=d&d=OLSF19420627.2.25&srpos=3&e=-------en--20-OLSF-1-byDA-txt-txIN-importation+of+mexican+laborers+into+california+vital-------
+      \endverb
+      \verb{url}
+      \verb https://cdnc.ucr.edu/?a=d&d=OLSF19420627.2.25&srpos=3&e=-------en--20-OLSF-1-byDA-txt-txIN-importation+of+mexican+laborers+into+california+vital-------
+      \endverb
+    \endentry
+    \entry{noauthor_petition_1941}{article}{}{}
+      \list{publisher}{1}{%
+        {University of California, Riverside}%
+      }
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Organized Labor}
+      \field{month}{9}
+      \field{number}{37}
+      \field{title}{{PETITION} {TO} {IMPORT} {ALIEN} {LABOR} {INTO} {STATE} {SHOULD} {BE} {DENIED}}
+      \field{volume}{42}
+      \field{year}{1941}
+      \verb{urlraw}
+      \verb https://cdnc.ucr.edu/?a=d&d=OLSF19410913.2.2&srpos=11&e=-------en--20-OLSF-1-byDA-txt-txIN-at+substandard+wages-------
+      \endverb
+      \verb{url}
+      \verb https://cdnc.ucr.edu/?a=d&d=OLSF19410913.2.2&srpos=11&e=-------en--20-OLSF-1-byDA-txt-txIN-at+substandard+wages-------
+      \endverb
+    \endentry
+    \entry{noauthor_wetbacks_1954}{article}{}{}
+      \list{publisher}{1}{%
+        {University of California, Riverside}%
+      }
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Organized Labor}
+      \field{month}{4}
+      \field{number}{34}
+      \field{title}{{WETBACKS} {GET} {BETTER} {CARE} {THAN} {MIGRANTS}}
+      \field{volume}{53}
+      \field{year}{1954}
+      \verb{urlraw}
+      \verb https://cdnc.ucr.edu/?a=d&d=OLSF19540416.2.28&srpos=1&e=-------en--20-OLSF-1-byDA-txt-txIN-WETBACKS+GET+BETTER+CARE+THAN+MIGRANTS-------
+      \endverb
+      \verb{url}
+      \verb https://cdnc.ucr.edu/?a=d&d=OLSF19540416.2.28&srpos=1&e=-------en--20-OLSF-1-byDA-txt-txIN-WETBACKS+GET+BETTER+CARE+THAN+MIGRANTS-------
+      \endverb
+    \endentry
+    \entry{pardos-prado_skill_2019}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=444428927b83bf438f1181d835a16fe4}{%
+           family={Pardos-Prado},
+           familyi={P\bibinithyphendelim P\bibinitperiod},
+           given={Sergi},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=482157a583da344d12a65618484d7574}{%
+           family={Xena},
+           familyi={X\bibinitperiod},
+           given={Carla},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Midwest Political Science Association}%
+      }
+      \strng{namehash}{7c393c47090932c223346982b1846529}
+      \strng{fullhash}{7c393c47090932c223346982b1846529}
+      \strng{fullhashraw}{7c393c47090932c223346982b1846529}
+      \strng{bibnamehash}{7c393c47090932c223346982b1846529}
+      \strng{authorbibnamehash}{7c393c47090932c223346982b1846529}
+      \strng{authornamehash}{7c393c47090932c223346982b1846529}
+      \strng{authorfullhash}{7c393c47090932c223346982b1846529}
+      \strng{authorfullhashraw}{7c393c47090932c223346982b1846529}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Political Science}
+      \field{number}{2}
+      \field{title}{Skill {Specificity} and {Attitudes} toward {Immigration}}
+      \field{urlday}{21}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{63}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{286\bibrangedash 304}
+      \range{pages}{19}
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/45132478
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/45132478
+      \endverb
+    \endentry
+    \entry{pitt_beginnings_nodate}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=17cbcbcbf67f281df8247857837b402c}{%
+           family={Pitt},
+           familyi={P\bibinitperiod},
+           given={Leonard},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{17cbcbcbf67f281df8247857837b402c}
+      \strng{fullhash}{17cbcbcbf67f281df8247857837b402c}
+      \strng{fullhashraw}{17cbcbcbf67f281df8247857837b402c}
+      \strng{bibnamehash}{17cbcbcbf67f281df8247857837b402c}
+      \strng{authorbibnamehash}{17cbcbcbf67f281df8247857837b402c}
+      \strng{authornamehash}{17cbcbcbf67f281df8247857837b402c}
+      \strng{authorfullhash}{17cbcbcbf67f281df8247857837b402c}
+      \strng{authorfullhashraw}{17cbcbcbf67f281df8247857837b402c}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pacific Historical Review}
+      \field{number}{1}
+      \field{title}{The {Beginnings} of {Nativism} in {California}}
+      \field{volume}{30}
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/3636329
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/3636329
+      \endverb
+      \keyw{Background}
+    \endentry
+    \entry{reisler_always_1976}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=91c31837210350c2ff3e1fa99f715cc6}{%
+           family={Reisler},
+           familyi={R\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of California Press}%
+      }
+      \strng{namehash}{91c31837210350c2ff3e1fa99f715cc6}
+      \strng{fullhash}{91c31837210350c2ff3e1fa99f715cc6}
+      \strng{fullhashraw}{91c31837210350c2ff3e1fa99f715cc6}
+      \strng{bibnamehash}{91c31837210350c2ff3e1fa99f715cc6}
+      \strng{authorbibnamehash}{91c31837210350c2ff3e1fa99f715cc6}
+      \strng{authornamehash}{91c31837210350c2ff3e1fa99f715cc6}
+      \strng{authorfullhash}{91c31837210350c2ff3e1fa99f715cc6}
+      \strng{authorfullhashraw}{91c31837210350c2ff3e1fa99f715cc6}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pacific Historical Review}
+      \field{month}{5}
+      \field{number}{2}
+      \field{title}{Always the {Laborer}, {Never} the {Citizen}: {Anglo} {Perceptions} of the {Mexican} {Immigrant} during the 1920s}
+      \field{volume}{42}
+      \field{year}{1976}
+    \endentry
+    \entry{sanchez_face_1997}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2257e684ccd8a1f23338e3f8fdf5bc04}{%
+           family={Sanchez},
+           familyi={S\bibinitperiod},
+           given={George\bibnamedelima J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Inc}%
+      }
+      \strng{namehash}{2257e684ccd8a1f23338e3f8fdf5bc04}
+      \strng{fullhash}{2257e684ccd8a1f23338e3f8fdf5bc04}
+      \strng{fullhashraw}{2257e684ccd8a1f23338e3f8fdf5bc04}
+      \strng{bibnamehash}{2257e684ccd8a1f23338e3f8fdf5bc04}
+      \strng{authorbibnamehash}{2257e684ccd8a1f23338e3f8fdf5bc04}
+      \strng{authornamehash}{2257e684ccd8a1f23338e3f8fdf5bc04}
+      \strng{authorfullhash}{2257e684ccd8a1f23338e3f8fdf5bc04}
+      \strng{authorfullhashraw}{2257e684ccd8a1f23338e3f8fdf5bc04}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Migration Review}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{Face the {Nation}: {Race}, {Immigration}, and the {Rise} of {Nativism} in {Late} {Twentieth} {Century} {America}}
+      \field{volume}{31}
+      \field{year}{1997}
+    \endentry
+    \entry{steele_war_1989}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=933632d933e6fea749f365d95a8406b9}{%
+           family={Steele},
+           familyi={S\bibinitperiod},
+           given={Richard\bibnamedelima W.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Illinois Press on behalf of the Immigration \& Ethnic History Society}%
+      }
+      \strng{namehash}{933632d933e6fea749f365d95a8406b9}
+      \strng{fullhash}{933632d933e6fea749f365d95a8406b9}
+      \strng{fullhashraw}{933632d933e6fea749f365d95a8406b9}
+      \strng{bibnamehash}{933632d933e6fea749f365d95a8406b9}
+      \strng{authorbibnamehash}{933632d933e6fea749f365d95a8406b9}
+      \strng{authornamehash}{933632d933e6fea749f365d95a8406b9}
+      \strng{authorfullhash}{933632d933e6fea749f365d95a8406b9}
+      \strng{authorfullhashraw}{933632d933e6fea749f365d95a8406b9}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of American Ethnic History}
+      \field{number}{1}
+      \field{title}{The {War} on {Intolerance}: {The} {Reformulation} of {American} {Nationalism}, 1939-1941}
+      \field{volume}{9}
+      \field{year}{1989}
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/27500716
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/27500716
+      \endverb
+    \endentry
+    \entry{stepan-norris_union_2023}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=46393c2e6436140657707c4c29dc42f6}{%
+           family={Stepan-Norris},
+           familyi={S\bibinithyphendelim N\bibinitperiod},
+           given={Judith},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d327f7fb4314f4c803e280b249355188}{%
+           family={Kerrissey},
+           familyi={K\bibinitperiod},
+           given={Jasmine},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{cbae5102c5cd0a55c4104db96d2fa958}
+      \strng{fullhash}{cbae5102c5cd0a55c4104db96d2fa958}
+      \strng{fullhashraw}{cbae5102c5cd0a55c4104db96d2fa958}
+      \strng{bibnamehash}{cbae5102c5cd0a55c4104db96d2fa958}
+      \strng{authorbibnamehash}{cbae5102c5cd0a55c4104db96d2fa958}
+      \strng{authornamehash}{cbae5102c5cd0a55c4104db96d2fa958}
+      \strng{authorfullhash}{cbae5102c5cd0a55c4104db96d2fa958}
+      \strng{authorfullhashraw}{cbae5102c5cd0a55c4104db96d2fa958}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Union {Booms} and {Busts}: {The} {Ongoing} {Fight} {Over} the {U}.{S}. {Labor} {Movement}}
+      \field{year}{2023}
+    \endentry
+    \entry{struthers_boss_2013}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8e1513c1482938b2e76a9d35a4e91252}{%
+           family={Struthers},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8e1513c1482938b2e76a9d35a4e91252}
+      \strng{fullhash}{8e1513c1482938b2e76a9d35a4e91252}
+      \strng{fullhashraw}{8e1513c1482938b2e76a9d35a4e91252}
+      \strng{bibnamehash}{8e1513c1482938b2e76a9d35a4e91252}
+      \strng{authorbibnamehash}{8e1513c1482938b2e76a9d35a4e91252}
+      \strng{authornamehash}{8e1513c1482938b2e76a9d35a4e91252}
+      \strng{authorfullhash}{8e1513c1482938b2e76a9d35a4e91252}
+      \strng{authorfullhashraw}{8e1513c1482938b2e76a9d35a4e91252}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{This article talks about although there was racial exlusion especially in california and San Francisco that there was contestation as seen in the titular self-critical paper from the IWW. This shows that unions were autonomous and did generally have individual thoughts and were not all racist and exlucsionary}
+      \field{journaltitle}{Journal for the Study of Radicalism}
+      \field{number}{2}
+      \field{title}{“{The} {Boss} {Has} {No} {Color} {Line}”: {Race}, {Solidarity}, and a {Culture} of {Affinity} in {Los} {Angeles} and the {Borderlands}, 1907–1915}
+      \field{volume}{7}
+      \field{year}{2013}
+      \field{pages}{61\bibrangedash 92}
+      \range{pages}{32}
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/10.14321/jstudradi.7.2.0061
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/10.14321/jstudradi.7.2.0061
+      \endverb
+      \keyw{Side Note***}
+    \endentry
+    \entry{walsh_new_2012}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a099501b25193e61085e485f370aa7f2}{%
+           family={Walsh},
+           familyi={W\bibinitperiod},
+           given={Jane\bibnamedelima Schuchert},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a099501b25193e61085e485f370aa7f2}
+      \strng{fullhash}{a099501b25193e61085e485f370aa7f2}
+      \strng{fullhashraw}{a099501b25193e61085e485f370aa7f2}
+      \strng{bibnamehash}{a099501b25193e61085e485f370aa7f2}
+      \strng{authorbibnamehash}{a099501b25193e61085e485f370aa7f2}
+      \strng{authornamehash}{a099501b25193e61085e485f370aa7f2}
+      \strng{authorfullhash}{a099501b25193e61085e485f370aa7f2}
+      \strng{authorfullhashraw}{a099501b25193e61085e485f370aa7f2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sociology Compass}
+      \field{number}{2}
+      \field{title}{A ‘{New}’ {Social} {Movement}: {US} {Labor} and the {Trends} of {Social} {Movement} {Unionism}}
+      \field{volume}{6}
+      \field{year}{2012}
+      \field{pages}{192\bibrangedash 204}
+      \range{pages}{13}
+    \endentry
+    \entry{wimmer_making_2008}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e667f10cabb5702cbaf2ccfa69784f08}{%
+           family={Wimmer},
+           familyi={W\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago}%
+      }
+      \strng{namehash}{e667f10cabb5702cbaf2ccfa69784f08}
+      \strng{fullhash}{e667f10cabb5702cbaf2ccfa69784f08}
+      \strng{fullhashraw}{e667f10cabb5702cbaf2ccfa69784f08}
+      \strng{bibnamehash}{e667f10cabb5702cbaf2ccfa69784f08}
+      \strng{authorbibnamehash}{e667f10cabb5702cbaf2ccfa69784f08}
+      \strng{authornamehash}{e667f10cabb5702cbaf2ccfa69784f08}
+      \strng{authorfullhash}{e667f10cabb5702cbaf2ccfa69784f08}
+      \strng{authorfullhashraw}{e667f10cabb5702cbaf2ccfa69784f08}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Political Science}
+      \field{month}{1}
+      \field{number}{4}
+      \field{title}{The {Making} and {Unmaking} of {Ethnic} {Boundaries}: {A} {Multilevel} {Process} {Theory}}
+      \field{volume}{113}
+      \field{year}{2008}
+      \field{pages}{970\bibrangedash 1022}
+      \range{pages}{53}
+    \endentry
+    \entry{yamada_what_2008}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=42d8f9674ca83b3fe51cf0abf1caa34a}{%
+           family={Yamada},
+           familyi={Y\bibinitperiod},
+           given={Nobuyuki},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Komazawa University}%
+      }
+      \strng{namehash}{42d8f9674ca83b3fe51cf0abf1caa34a}
+      \strng{fullhash}{42d8f9674ca83b3fe51cf0abf1caa34a}
+      \strng{fullhashraw}{42d8f9674ca83b3fe51cf0abf1caa34a}
+      \strng{bibnamehash}{42d8f9674ca83b3fe51cf0abf1caa34a}
+      \strng{authorbibnamehash}{42d8f9674ca83b3fe51cf0abf1caa34a}
+      \strng{authornamehash}{42d8f9674ca83b3fe51cf0abf1caa34a}
+      \strng{authorfullhash}{42d8f9674ca83b3fe51cf0abf1caa34a}
+      \strng{authorfullhashraw}{42d8f9674ca83b3fe51cf0abf1caa34a}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Faculty of Letters}
+      \field{title}{What {Is} {Social} {Movement} {Unionism}? -- {Its} {Uniqueness} and {Implications} --}
+      \field{volume}{66}
+      \field{year}{2008}
+      \field{pages}{1\bibrangedash 18}
+      \range{pages}{18}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

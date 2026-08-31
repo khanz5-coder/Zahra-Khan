@@ -1,0 +1,9 @@
+\contentsline {section}{I. Introduction}{7}{section*.5}%
+\contentsline {section}{II. Literature Review}{9}{section*.6}%
+\contentsline {section}{III. Methodology}{19}{section*.7}%
+\contentsline {section}{IV. Analysis}{26}{section*.8}%
+\contentsline {subsection}{A. General Analysis}{26}{section*.9}%
+\contentsline {subsection}{B. Early Twentieth Century (1900--1930)}{29}{section*.10}%
+\contentsline {subsection}{C. Middle Decades (1930--1970)}{35}{section*.11}%
+\contentsline {subsection}{D. 1970--1988 Period}{43}{section*.12}%
+\contentsline {section}{V. Conclusion}{46}{section*.13}%

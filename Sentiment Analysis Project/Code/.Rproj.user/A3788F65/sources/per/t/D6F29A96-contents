@@ -1,0 +1,283 @@
+libs <- c("tidyverse",
+          "rvest",
+          "polite",
+          "httr",
+          "stringr",
+          "lubridate",
+          "xml2",
+          "dplyr",
+          "ggplot2",
+          "scales",
+          "gridExtra",
+          "ggthemes",
+          "TSstudio",
+          "xts",
+          "tseries",
+          "forecast",
+          "stargazer",
+          "TTR")
+install.packages(setdiff(libs, rownames(installed.packages())))
+lapply(libs, library, character.only = TRUE)
+
+df <- read.csv("~/QTA/qtafinaldf3.csv")
+
+df$date <- as.Date(df$date, format = "%Y-%m-%d")
+
+###YEARLY NATIVIST GRAPH
+dfy <- df %>%
+group_by(year = floor_date(date, 'year')) %>%
+  mutate(total = n()) %>%
+  group_by(year, predicted_class) %>%
+  summarise(count = n(), total = first(total)) %>%
+  mutate(percentage = (count/total) * 100) %>%
+  filter(predicted_class !=0)
+dfy.ts <- ts(dfy$predicted_class, frequency = 1)
+autoplot(dfy.ts)
+
+
+dfy1 <- df %>%
+  group_by(year = floor_date(date, 'year')) %>%
+  mutate(total = n()) %>%
+  group_by(year, predicted_class) %>%
+  summarise(count = n(), total = first(total)) %>%
+  mutate(percentage = (count/total) * 100) %>%
+  filter(predicted_class == 1)
+
+dfy1.ts <- ts(dfy1$percentage, start = c(1914), end = c(1926), frequency = 1)
+
+autoplot(dfy1.ts) +
+  labs(title = "Labor Centered Nativism") +
+  ylab("Nativist Text")
+
+dfy2 <- df %>%
+  group_by(year = floor_date(date, 'year')) %>%
+  mutate(total = n()) %>%
+  group_by(year, predicted_class) %>%
+  summarise(count = n(), total = first(total)) %>%
+  mutate(percentage = (count/total) * 100) %>%
+  filter(predicted_class == 2)
+dfy2.ts <- ts(dfy2$percentage, start = c(1914), end = c(1926), frequency = 1)
+
+autoplot(dfy2.ts) +
+  labs(title = "Dehumanization Centered Nativism") +
+  ylab("Nativist Text")
+
+dfy3 <- df %>%
+  group_by(year = floor_date(date, 'year')) %>%
+  mutate(total = n()) %>%
+  group_by(year, predicted_class) %>%
+  summarise(count = n(), total = first(total)) %>%
+  mutate(percentage = (count/total) * 100) %>%
+  filter(predicted_class == 3)
+dfy3.ts <- ts(dfy3$percentage, start = c(1914), end = c(1926), frequency = 1)
+
+autoplot(dfy3.ts) +
+  labs(title = "Legal Exlcusion Centered Nativism") +
+  ylab("Nativist Text")
+
+ts.plot(dfy1.ts, dfy2.ts, dfy3.ts,
+        col = c("blue", "red", "green"),
+        main = "Different Types of Nativist Text in Organized Labor 1914-26",
+        ylab = "Percentage of Nativist Documents")
+legend("topright", legend =  c("Labor", "Dehumanization", "Exlcusionary Law"),
+       col = c("blue", "red", "green"), lty=1)
+
+## FOR ANALYSIS NOT PLOTTED
+dfm1 <- df %>%
+  group_by(month = floor_date(date, 'month')) %>%
+  mutate(total = n()) %>%
+  group_by(month, predicted_class) %>%
+  summarise(count = n(), total = first(total)) %>%
+  mutate(percentage = (count/total) * 100) %>%
+  filter(predicted_class == 1)
+
+dfm1.ts <- ts(dfm1$percentage, start = c(1912), end = c(1918), frequency = 12)
+dfm1sma.ts <- SMA(dfm1.ts, n = 12)
+
+autoplot(dfm1.ts) +
+  labs(title = "Labor Centered Nativism") +
+  ylab("Nativist Text")
+
+dfm2 <- df %>%
+  group_by(month = floor_date(date, 'month')) %>%
+  mutate(total = n()) %>%
+  group_by(month, predicted_class) %>%
+  summarise(count = n(), total = first(total)) %>%
+  mutate(percentage = (count/total) * 100) %>%
+  filter(predicted_class == 2)
+dfm2.ts <- ts(dfm2$percentage, start = c(1914), end = c(1923), frequency = 12)
+dfm2sma.ts <- SMA(dfm1.ts, n = 12)
+
+autoplot(dfm2.ts) +
+  labs(title = "Dehumanization Centered Nativism") +
+  ylab("Nativist Text")
+
+dfm3 <- df %>%
+  group_by(month = floor_date(date, 'month')) %>%
+  mutate(total = n()) %>%
+  group_by(month, predicted_class) %>%
+  summarise(count = n(), total = first(total)) %>%
+  mutate(percentage = (count/total) * 100) %>%
+  filter(predicted_class == 3)
+dfm3.ts <- ts(dfm3$percentage, start = c(1914), end = c(1923), frequency = 12)
+dfsma.ts <- SMA(dfm1.ts, n = 12)
+
+autoplot(dfm3.ts) +
+  labs(title = "Legal Exlcusion Centered Nativism") +
+  ylab("Nativist Text")
+
+ts.plot(dfm1.ts, dfm2.ts, dfm3.ts,
+        col = c("blue", "red", "green"),
+        main = "Nativist Text in Organized Labor 1914-23",
+        ylab = "Percentage of Nativist Documents")
+legend("topright", legend =  c("Labor", "Dehumanization", "Exlcusionary Law"),
+       col = c("blue", "red", "green"), lty=1)
+
+# AGGREGATING FOR ANALYSIS
+dfm1 <- df %>%
+  group_by(month = floor_date(date, 'month')) %>%
+  mutate(total = n()) %>%
+  group_by(month, predicted_class) %>%
+  summarise(count = n(), total = first(total)) %>%
+  mutate(percentage = (count/total) * 100) %>%
+  filter(predicted_class == 1)
+
+dfm1.ts <- ts(dfm1$percentage, start = c(1910), end = c(1918), frequency = 12)
+dfm1sma <- SMA(dfm1.ts, window = 12)
+autoplot(dfm1.ts) +
+  labs(title = "Labor Centered Nativism") +
+  ylab("Nativist Text")
+
+dfm2 <- df %>%
+  group_by(month = floor_date(date, 'month')) %>%
+  mutate(total = n()) %>%
+  group_by(month, predicted_class) %>%
+  summarise(count = n(), total = first(total)) %>%
+  mutate(percentage = (count/total) * 100) %>%
+  filter(predicted_class == 2)
+dfm2.ts <- ts(dfm2$percentage, start = c(1910), end = c(1918), frequency = 12)
+dfm2sma <- SMA(dfm2.ts, window = 12)
+
+autoplot(dfm2.ts) +
+  labs(title = "Dehumanization Centered Nativism") +
+  ylab("Nativist Text")
+
+dfm3 <- df %>%
+  group_by(month = floor_date(date, 'month')) %>%
+  mutate(total = n()) %>%
+  group_by(month, predicted_class) %>%
+  summarise(count = n(), total = first(total)) %>%
+  mutate(percentage = (count/total) * 100) %>%
+  filter(predicted_class == 3)
+dfm3.ts <- ts(dfm3$percentage, start = c(1910), end = c(1918), frequency = 12)
+dfm3sma <- SMA(dfm3.ts, window = 12)
+
+autoplot(dfm3.ts) +
+  labs(title = "Legal Exlcusion Centered Nativism") +
+  ylab("Nativist Text")
+
+ts.plot(dfm1sma, dfm2sma, dfm3sma,
+        col = c("blue", "red", "green"),
+        main = "Nativist Text in Organized Labor 1914-17",
+        ylab = "Percentage of Nativist Documents")
+legend("topright", legend =  c("Labor", "Dehumanization", "Exlcusionary Law"),
+       col = c("blue", "red", "green"), lty=1)
+
+## FOR ANALYSIS NOT PLOTTED
+dfm1 <- df %>%
+  group_by(month = floor_date(date, 'month')) %>%
+  mutate(total = n()) %>%
+  group_by(month, predicted_class) %>%
+  summarise(count = n(), total = first(total)) %>%
+  mutate(percentage = (count/total) * 100) %>%
+  filter(predicted_class == 1)
+
+dfm1.ts <- ts(dfm1$percentage, start = c(1915), end = c(1926), frequency = 12)
+
+autoplot(dfm1.ts) +
+  labs(title = "Labor Centered Nativism") +
+  ylab("Nativist Text")
+
+dfm2 <- df %>%
+  group_by(month = floor_date(date, 'month')) %>%
+  mutate(total = n()) %>%
+  group_by(month, predicted_class) %>%
+  summarise(count = n(), total = first(total)) %>%
+  mutate(percentage = (count/total) * 100) %>%
+  filter(predicted_class == 2)
+dfm2.ts <- ts(dfm2$percentage, start = c(1918), end = c(1926), frequency = 12)
+
+autoplot(dfm2.ts) +
+  labs(title = "Dehumanization Centered Nativism") +
+  ylab("Nativist Text")
+
+dfm3 <- df %>%
+  group_by(month = floor_date(date, 'month')) %>%
+  mutate(total = n()) %>%
+  group_by(month, predicted_class) %>%
+  summarise(count = n(), total = first(total)) %>%
+  mutate(percentage = (count/total) * 100) %>%
+  filter(predicted_class == 3)
+dfm3.ts <- ts(dfm3$percentage, start = c(1918), end = c(1926), frequency = 12)
+
+autoplot(dfm3.ts) +
+  labs(title = "Legal Exlcusion Centered Nativism") +
+  ylab("Nativist Text")
+
+ts.plot(dfm1.ts, dfm2.ts, dfm3.ts,
+        col = c("blue", "red", "green"),
+        main = "Nativist Text in Organized Labor 1914-17",
+        ylab = "Percentage of Nativist Documents")
+legend("topright", legend =  c("Labor", "Dehumanization", "Exlcusionary Law"),
+       col = c("blue", "red", "green"), lty=1)
+
+
+#FINAL MAIN GRAPH
+df10 <- df %>%
+  filter(date >= as.Date("1912-01-01"), date <= as.Date("1924-12-31")) %>%
+  mutate(binary_class = ifelse(predicted_class !=0, 1, 0)) %>%
+  group_by(month = floor_date(date, 'month')) %>%
+  mutate(total = n()) %>%
+  group_by(month, binary_class) %>%
+  summarise(count = n(), total = first(total), .groups = "drop") %>%
+  mutate(percentage = (count/total) * 100) %>%
+  filter(binary_class == 1) %>%
+  ungroup() %>%
+  select(-month)
+
+df10.ts <- ts(df10$percentage, end = c(1924,5), frequency = 12)
+autoplot(df10.ts) +
+  labs(title = "Nativism in Organized Labor: 1914-1926") +
+  ylab("Monthly Nativst Percentage") 
+
+df10sma.ts <- SMA(df10.ts, n = 12)
+autoplot(df10sma.ts)
+
+df10p <- data.frame(
+  time = as.numeric(time(df10sma.ts)),
+  val = as.numeric(df10sma.ts)
+)
+ggplot(df10p, aes(x = time, y = val)) +
+  geom_line(colour = "blue") +
+  annotate("rect", xmin=1912, xmax = 1917, ymin=-Inf, ymax=Inf,
+           alpha=0.15, fill="yellow") +
+  annotate("rect", xmin=1917, xmax = 1920, ymin=-Inf, ymax=Inf,
+           alpha=0.15, fill="lightblue") +
+  annotate("rect", xmin=1920, xmax = 1924, ymin=-Inf, ymax=Inf,
+           alpha=0.15, fill="lightgreen") +
+  annotate("text", x = 1914.5, y = Inf, label = "Pre-Involvement",
+           vjust=2, size=3.5, fontface="bold") +
+  annotate("text", x = 1918, y = Inf, label = "WW1 US Involvement",
+           vjust=2, size=3.5, fontface="bold") +
+  annotate("text", x = 1921.5, y = Inf, label = "Post-War",
+           vjust=2, size=3.5, fontface="bold") +
+  labs(title = "Labor Centered Nativism 1914-1924") +
+  ylab("Monthly Nativist Percentage") +
+  xlab("Year") +
+  theme_classic() +
+  theme(
+    plot.title = element_text(face = "bold", size = 15, hjust=0.5),
+    axis.title = element_text(size = 10),
+    panel.grid.minor = element_blank()
+  )
+  
